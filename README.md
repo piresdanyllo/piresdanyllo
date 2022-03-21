@@ -38,5 +38,5 @@
   <br/>
 
 <a href="https://github.com/piresdanyllo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresdanyllo&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresdanyllo&theme=midnight-purple&show_icons=true" />
 </a>
