@@ -40,3 +40,11 @@
 <a href="https://github.com/piresdanyllo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresdanyllo&theme=midnight-purple&show_icons=true" />
 </a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Danyllo Pires](https://img.shields.io/badge/-Danyllo-Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyllopires/)](https://www.linkedin.com/in/danyllopires/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
