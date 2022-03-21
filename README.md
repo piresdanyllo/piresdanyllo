@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=007396)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=red)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
